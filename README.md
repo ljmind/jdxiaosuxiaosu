@@ -7,5 +7,5 @@ bash <(curl -sL  http://jx.lim1.cn/pangbai/ql.sh)
 https://docs.qq.com/doc/DZlBxR1J0VG5ydlND
 
 
-
+--2022年2月10日10:50:31 可用
 ql repo https://github.com/xiaosuxiaosu/backup_pangbai66.git  "jd_|jx_|gua_|jddj_|getJDCookie" "activity|backUp" "^jd[^_]|USER|function|utils|sendnotify|ZooFaker_Necklace|jd_Cookie|JDJRValidator_|sign_graphics_validate|ql|magic|cleancart_activity"
